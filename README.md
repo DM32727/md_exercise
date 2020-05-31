@@ -12,7 +12,7 @@
 #### nagłówek poziomu 4
 - punkt główny 
 * podlista punktowa
-* Linki - [nazwa](www.strona.com)
+* Linki - [strona](https://www.markdownguide.org/)
 * Linki z podglądem 
 [nazwa](www.strona.com"opis")
 * linki z przypisem tekst
