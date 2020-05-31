@@ -13,8 +13,13 @@
 - punkt główny 
 * podlista punktowa
 * Linki - [nazwa](www.strona.com)
-* Linki z podglądem [nazwa](www.strona.com"opis")
-* linki z przypisem tekst[1] [1]:www.strona.com
-* obrazki ![tekst](obrazek.apg "tekst")
-* cytaty >cytat
-* KOd programu (blok) - '''jezyk_programu kod'''
+* Linki z podglądem 
+[nazwa](www.strona.com"opis")
+* linki z przypisem tekst
+[1] [1]:www.strona.com
+* obrazki 
+![tekst](obrazek.apg "tekst")
+* cytaty 
+>cytat
+* KOd programu (blok) - 
+'''jezyk_programu kod'''
