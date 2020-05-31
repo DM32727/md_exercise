@@ -22,4 +22,13 @@
 * cytaty 
 >cytat
 * KOd programu (blok) - 
-'''jezyk_programu kod'''
+'public class Main {
+
+    public static void main(String[] args) {
+	//cwiczenia z markdown
+
+
+
+
+
+}'
