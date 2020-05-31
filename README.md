@@ -4,13 +4,13 @@
 * umieścić hiperłącze w dokumencie WIKI na stronie [WSEI DL][http://dl.wsei.lublin.pl]
 ### nagłówek poziomu 3
 #### nagłówek poziomu 4
-*kursywa*
+1. punkt pierwszy*kursywa*
 __pogrubienie__
 ~~przekreslenie~~
 ''zacienienie''
 komentarz
 ---
-1. punkt pierwszy
+
 - punkt
 * podlista punktowa
 * Linki - [nazwa](www.strona.com)
